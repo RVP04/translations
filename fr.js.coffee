@@ -76,7 +76,6 @@ I18n.fr =
     properties_publish: "Publier comme modèle"
     properties_template_info: "(Les modèles sons visibles pour tous les utilisateurs)"
     properties_delete_schema: "Supprimer le schéma"
-    properties_delete_alert: "(You will permanently delete this schema and all associated comments)"
     properties_delete_alert: "(Vous allez supprimer de manière définitive ce schéma et tous ses commentaires associés)"
     properties_save: "Enregistrer sous"
     share: "Partager"
