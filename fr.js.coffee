@@ -142,6 +142,7 @@ I18n.fr =
     field_type: "Type"
     field_size: "Taille"
     field_default: "Valeur par défaut"
+    field_unique: "Unique"
     field_allow_nulls: "NULL autorisé"
     field_primary_key: "Clé Primaire"
     field_foreign_key: "Clé Étrangère"

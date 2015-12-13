@@ -142,6 +142,7 @@ I18n.pt_br =
     field_type: "Tipo"
     field_size: "Tamanho"
     field_default: "Valor Padrão"
+    field_unique: "Unique"
     field_allow_nulls: "Permitir valores nulos"
     field_primary_key: "Chave Primária"
     field_foreign_key: "Chave Estrangeira"

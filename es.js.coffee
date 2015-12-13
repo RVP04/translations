@@ -142,6 +142,7 @@ I18n.es =
     field_type: "Tipo"
     field_size: "Tamaño"
     field_default: "Por Defecto"
+    field_unique: "Unique"
     field_allow_nulls: "Permitir valores nulos"
     field_primary_key: "Llave Primaria"
     field_foreign_key: "Llave Foránea"

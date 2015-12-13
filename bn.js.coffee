@@ -142,6 +142,7 @@ I18n.bn =
     field_type: "ধাঁচ"
     field_size: "আকার"
     field_default: "ডিফল্ট"
+    field_unique: "Unique"
     field_allow_nulls: "নাল অনুমোদন"
     field_primary_key: "প্রাইমারি কী"
     field_foreign_key: "ফরেন কী"

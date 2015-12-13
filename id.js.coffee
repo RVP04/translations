@@ -142,6 +142,7 @@ I18n.id =
     field_type: "Jenis"
     field_size: "Ukuran"
     field_default: "Default"
+    field_unique: "Unique"
     field_allow_nulls: "Perbolehkan kosong"
     field_primary_key: "Primary Key"
     field_foreign_key: "Foreign Key"

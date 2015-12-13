@@ -142,6 +142,7 @@ I18n.pl =
     field_type: "Typ"
     field_size: "Rozmiar"
     field_default: "Domyślna"
+    field_unique: "Unique"
     field_allow_nulls: "Zezwalaj na wartości null"
     field_primary_key: "Podstawowy klucz"
     field_foreign_key: "Obcy klucz"

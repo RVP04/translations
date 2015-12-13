@@ -142,6 +142,7 @@ I18n.vi =
     field_type: "Kiểu"
     field_size: "Kích thước"
     field_default: "Mặc định"
+    field_unique: "Unique"
     field_allow_nulls: "Cho phép rỗng"
     field_primary_key: "Khóa chính"
     field_foreign_key: "Khóa ngoại"

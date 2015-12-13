@@ -142,6 +142,7 @@ I18n.en =
     field_type: "Type"
     field_size: "Size"
     field_default: "Default"
+    field_unique: "Unique"
     field_allow_nulls: "Allow nulls"
     field_primary_key: "Primary Key"
     field_foreign_key: "Foreign Key"

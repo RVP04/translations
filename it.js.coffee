@@ -142,6 +142,7 @@ I18n.it =
     field_type: "Tipo"
     field_size: "Dimensione"
     field_default: "Default"
+    field_unique: "Unique"
     field_allow_nulls: "Permetti valori nulli"
     field_primary_key: "Primary Key"
     field_foreign_key: "Foreign Key"

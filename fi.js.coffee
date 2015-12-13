@@ -142,6 +142,7 @@ I18n.fi =
     field_type: "Tyyppi"
     field_size: "Koko"
     field_default: "Oletus"
+    field_unique: "Unique"
     field_allow_nulls: "Salli null-arvot"
     field_primary_key: "Perusavain"
     field_foreign_key: "Viiteavain"

@@ -142,6 +142,7 @@ I18n.ru =
     field_type: "Тип"
     field_size: "Размер"
     field_default: "Значение по умолчанию"
+    field_unique: "Unique"
     field_allow_nulls: "Разрешить nulls"
     field_primary_key: "Первичный ключ"
     field_foreign_key: "Внешний ключ"

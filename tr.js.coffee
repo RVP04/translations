@@ -142,6 +142,7 @@ I18n.tr =
     field_type: "Tip"
     field_size: "Boyut"
     field_default: "Varsayılan"
+    field_unique: "Tekil Alan"
     field_allow_nulls: "Boş Değer"
     field_primary_key: "Birincil Anahtar"
     field_foreign_key: "Yabancı Anahtar"

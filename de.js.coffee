@@ -142,6 +142,7 @@ I18n.de =
     field_type: "Typ"
     field_size: "Größe"
     field_default: "Standardwert"
+    field_unique: "Unique"
     field_allow_nulls: "Nullwerte erlauben"
     field_primary_key: "Primärschlüssel"
     field_foreign_key: "Fremder Schlüssel"

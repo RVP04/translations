@@ -142,6 +142,7 @@ I18n.ca =
     field_type: "Tipus"
     field_size: "Mida"
     field_default: "Per Defecte"
+    field_unique: "Unique"
     field_allow_nulls: "Permetre valors nuls"
     field_primary_key: "Clau Primària"
     field_foreign_key: "Clau Forana"

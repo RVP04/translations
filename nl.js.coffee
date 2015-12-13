@@ -142,6 +142,7 @@ I18n.nl =
     field_type: "Type"
     field_size: "Grootte"
     field_default: "Staandaardwaarde"
+    field_unique: "Unique"
     field_allow_nulls: """"nulls" toestaan"""
     field_primary_key: "Primary Key"
     field_foreign_key: "Foreign Key"
