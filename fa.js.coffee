@@ -150,7 +150,7 @@ I18n.fa =
     field_update: "بروزرسانی"
     field_cancel: "لغو"
     field_delete: "حذف فیلد"
-    field_delete_alert: "آیا از خذف این فیلد اطمینان دارید؟?\nبرای حذف بدون پیغام تائید، دکمه shift را نگه داریدn)"
+    field_delete_alert: "آیا از خذف این فیلد اطمینان دارید؟?\nبرای حذف بدون پیغام تائید، دکمه shift را نگه دارید)"
     field_ref_table: "جدول مرجع"
     field_ref_field: "فیلد مرجع"
   alerts:
