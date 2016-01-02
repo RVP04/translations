@@ -1,4 +1,4 @@
-I18n.en =
+I18n.fa =
   menu:
     schema: "طرح"
     new: "جدید ..."
