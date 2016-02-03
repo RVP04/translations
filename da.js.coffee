@@ -26,7 +26,7 @@ I18n.da =
     linetype: "Linie Type"
     bezier: "Bezier"
     cornered: "Afrundet"
-    options: "Valgmuligheder ..."
+    options: "Indstillinger ..."
     export: "Eksporter"
     sql: "Sql ..."
     image: "Billede ..."
