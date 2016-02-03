@@ -11,7 +11,7 @@ I18n.da =
     import: "Importér ..."
     edit: "Rediger"
     undo: "Fortryd"
-    redo: "Fortryd Annulering"
+    redo: "Fortryd Annullering"
     insert: "Indsæt"
     table: "Tabel"
     note: "Note"
