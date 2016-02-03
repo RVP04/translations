@@ -157,4 +157,4 @@ I18n.da =
     delete_schema: "Er du sikker på at du vil slette dette skema?"
     server_error: "Der skete en fejl på serveren"
     schema_owner_error: "Kun skema ejeren kan ændre delingsindstillinger"
-    login_to_use_this_function: "Du skal logge ind for at kunne bruge den funktionalitet"
+    login_to_use_this_function: "Du skal logge ind for at bruge denne funktionalitet"
