@@ -130,6 +130,11 @@ I18n.ru =
     login: "Логин"
     close: "Закрыть"
     back: "Назад"
+    dirty_schema_confirmation: "Unsaved changes!"
+    dirty_schema_confirmation_message: "You have unsaved changes in your schema, would you like to save it?"
+    dirty_schema_confirmation_save_changes_button: "Save changes"
+    dirty_schema_confirmation_discard_changes_and_continue_button: "Discard changes"
+    dirty_schema_confirmation_cancel_button: "Cancel"
   designer:
     save_note_edit: "Сохранить"
     cancel_note_edit: "Отменить"

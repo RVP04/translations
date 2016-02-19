@@ -130,6 +130,11 @@ I18n.tr =
     login: "Giriş"
     close: "Kapat"
     back: "Geri"
+    dirty_schema_confirmation: "Kaydedilmemiş Şema!"
+    dirty_schema_confirmation_message: "Kaydedilmemiş değişiklikleriniz var, kaydetmek ister misiniz?"
+    dirty_schema_confirmation_save_changes_button: "Değişiklikleri kaydet"
+    dirty_schema_confirmation_discard_changes_and_continue_button: "Kaydetmeden devam et"
+    dirty_schema_confirmation_cancel_button: "İptal"
   designer:
     save_note_edit: "Kaydet"
     cancel_note_edit: "İptal"
