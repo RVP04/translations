@@ -5,6 +5,9 @@ I18n.settings =
   ca:
     code: 'ca'
     name: 'Catalan'
+  cs:
+    code: 'cs'
+    name: 'Czech'
   da:
     code: 'da'
     name: 'Danish'
