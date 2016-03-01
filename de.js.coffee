@@ -24,7 +24,7 @@ I18n.de =
     show_sidebar: "Seitenleiste einblenden"
     hide_sidebar: "Seitenleiste ausblenden"
     show_grid: "Gitter einblenden"
-    hide_grid: "Gitter einblenden"
+    hide_grid: "Gitter ausblenden"
     sort_items: "Items sortieren"
     linetype: "Linientyp"
     bezier: "gekurvt"
@@ -162,7 +162,7 @@ I18n.de =
     field_ref_table: "Tabelle"
     field_ref_field: "Feld"
   alerts:
-    delete_schema: "Sind Sie sicher, dass sie dieses Schema löschen möchten?"
+    delete_schema: "Sind Sie sicher, dass Sie dieses Schema löschen möchten?"
     server_error: "Ein Server-Fehler ist aufgetreten."
     schema_owner_error: "Nur der Besitzer eines Schemas kann die Teileneinstellungen ändern."
     login_to_use_this_function: "Bitte loggen Sie sich ein, um diese Funktion nutzen zu können."
