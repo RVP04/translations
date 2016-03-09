@@ -153,7 +153,7 @@ I18n.ru =
     field_default: "Значение по умолчанию"
     field_unique: "Уникальное значение"
     field_allow_nulls: "Разрешить nulls"
-    field_autoincrement: "Auto Increment"
+    field_autoincrement: "Автоинкремент"
     field_primary_key: "Первичный ключ"
     field_foreign_key: "Внешний ключ"
     field_save: "Сохранить"
