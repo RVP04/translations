@@ -99,7 +99,7 @@ I18n.ru =
     options_line_colors: "Цвет линии"
     options_invert_line_direction: "Поменять направление стрелки"
     options_show_fk_icon: "Показывать иконку внешнего ключа"
-    options_show_ai_icon: "Show Auto Increment Icon"
+    options_show_ai_icon: "Показать иконку автоинкремента"
     options_show_not_null_icon: "Показывать иконку Not Null"
     options_show_default_values: "Показывать значение по умолчанию"
     options_language: "Язык"
