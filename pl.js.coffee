@@ -161,8 +161,8 @@ I18n.pl =
     field_cancel: "Anuluj"
     field_delete: "Usuń pole"
     field_delete_alert: "Jesteś pewien, że chcesz usunąć to pole?\n(przytrzymaj shift, aby usuwać bez powiadomienia)"
-    field_ref_table: "Odśwież tabelę"
-    field_ref_field: "Odśwież pole"
+    field_ref_table: "Tabela"
+    field_ref_field: "Pole"
   alerts:
     delete_schema: "Jesteś pewien, że chcesz usunąć ten schemat?"
     server_error: "Wystąpił błąd serwera"
