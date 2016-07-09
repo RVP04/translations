@@ -1,4 +1,4 @@
-I18n.en =
+I18n.gr =
   menu:
     schema: "Σχήμα"
     new: "Νέο ..."
