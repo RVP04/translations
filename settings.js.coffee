@@ -17,6 +17,9 @@ I18n.settings =
   en:
     code: 'en'
     name: 'English'
+  eo:
+    code: 'eo'
+    name: 'Esperanto'
   es:
     code: 'es'
     name: 'Spanish'
