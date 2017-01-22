@@ -39,6 +39,9 @@ I18n.settings =
   it:
     code: 'it'
     name: 'Italian'
+  nb:
+    code: 'nb_no'
+    name: 'Norwegian Bokmål'
   nl:
     code: 'nl'
     name: 'Dutch'
