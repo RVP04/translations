@@ -1,4 +1,4 @@
-I18n.en =
+I18n.nb_no =
   menu:
     schema: "Skjema"
     new: "Ny ..."
