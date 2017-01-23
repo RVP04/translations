@@ -33,6 +33,9 @@ I18n.settings =
   fr:
     code: 'fr'
     name: 'French'
+  gr:
+    code: 'gr'
+    name: 'Greek'
   id:
     code: 'id'
     name: 'Indonesian'
