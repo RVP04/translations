@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 <<<<<<< 498fd945c7375d9cd987c951693d49892443743a
 I18n.nb_no =
 =======
 I18n.en =
 >>>>>>> Norwegian Bokmål translation
+=======
+I18n.en =
+>>>>>>> origin/my-feature-branch
   menu:
     schema: "Skjema"
     new: "Ny ..."
