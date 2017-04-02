@@ -42,6 +42,9 @@ I18n.settings =
   it:
     code: 'it'
     name: 'Italian'
+  kn:
+    code: 'kn'
+    name: 'Kannada'
   nb:
     code: 'nb_no'
     name: 'Norwegian Bokmål'
@@ -60,6 +63,9 @@ I18n.settings =
   tr:
     code: 'tr'
     name: 'Turkish'
+  ua:
+    code: 'ua'
+    name: 'Ukrainian'
   vi:
     code: 'vi'
     name: 'Vietnamese'
