@@ -56,7 +56,7 @@ I18n.en =
     new_schema: "新規スキーマ"
     new_schema_title: "タイトル"
     new_schema_database: "データベース"
-    new_schema_type_info: """Selecting the "generic" database type will allow you to generate SQL for all the databases; but you will only have access to the generic datatypes.データベースタイプ『汎用』を選択すると、全てのデータベースで使用可能なSQLを生成できますが、汎用的なデータ型のみしか使用できません。"""
+    new_schema_type_info: """データベースタイプ『汎用』を選択すると、全てのデータベースで使用可能なSQLを生成できますが、汎用的なデータ型のみしか使用できません。"""
     new_schema_create_new: "新規スキーマ作成"
     load_schema: "スキーマ読込"
     load_schema_your_schemas: "あなたのスキーマ:"
