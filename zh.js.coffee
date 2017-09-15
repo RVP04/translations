@@ -1,4 +1,4 @@
-I18n.en =
+I18n.zh =
   menu:
     schema: "数据库模式"
     new: "新建 ..."
